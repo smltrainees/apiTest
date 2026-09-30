@@ -2,20 +2,20 @@
     {
     "product": "Addidas Shoe",
     "size": 30,
-    "prize": 1580,
+    "price": 1580,
     "color": "black",
-    "image": "https://www.adidas.co.in/galaxy-7-running-shoes/ID8760.html"
+    "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_t.png"
   },{
     "product": "Puma Shoe",
     "size": 25,
-    "prize": 2580,
+    "price": 2580,
     "color": "white",
-    "image": "https://in.puma.com/in/en/pd/court-classic-20-lightweight-casual-shoes/311789?srsltid=AU7gw4WjsHaASAJg-YCM0x-7B959WRW4K5zVRwIj7s7lIF9lgXdCZ0CI"
+    "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_t.png"
   },{
     "product": "Nike Shoe",
     "size": 28,
-    "prize": 3580,
+    "price": 3580,
     "color": "red",
-    "image": "https://www.farfetch.com/in/shopping/men/nike-air-force-1-07-lv8-1-triple-red-sneakers-item-14952828.aspx"
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_t.png"
   }
 ]
